@@ -33,8 +33,8 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/EK4MPREETSINGH">◈Eᴋᴀ�
 
     TECH_VJ_ABOUT_TEXT = """
 <b>▷ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/UrlUploaderGalaxy_bot"Uʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a>
-▷ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a>
-▷ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Galaxy_Bots">ᴠᴊ ʙᴏᴛᴢ</a>
+▷ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/EK4MPREETSINGH">Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a>
+▷ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Galaxy_Bots1">ɢᴀʟᴀxʏ ʙᴏᴛs</a>
 ▷ sᴇʀᴠᴇʀ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 ▷ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
 ▷ ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a></b>
