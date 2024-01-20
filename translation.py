@@ -14,80 +14,57 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/EK4MPREETSINGH">◈Eᴋᴀ�
 """
 
     TECH_VJ_HELP_TEXT = """
-<b>🖍️ ғᴇᴀᴛᴜʀᴇs :-
+<b>◉ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs◉
 
-🔺 ᴜᴘʟᴏᴀᴅ ʜᴛᴛᴘ/ʜᴛᴛᴘs ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
+◁ ᴜᴘʟᴏᴀᴅ ʜᴛᴛᴘ/ʜᴛᴛᴘs ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
 
-🔺 ᴜᴘʟᴏᴀᴅ ᴢᴇᴇ5, sᴏɴʏ.ʟɪᴠᴇ, ᴠᴏᴏᴛ ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ.
+◁ ᴜᴘʟᴏᴀᴅ ᴢᴇᴇ5, sᴏɴʏ.ʟɪᴠᴇ, ᴠᴏᴏᴛ ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ.
 
-🔺 ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ.
+◁ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ.
 
-🔺 ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ʙʏ /broadcast ᴄᴏᴍᴍᴀɴᴅ
+◁ ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ʙʏ /broadcast ᴄᴏᴍᴍᴀɴᴅ
 
-💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
+◁ sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
-🔻 ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋs <a href="https://t.me/VJCode/11">ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ</a>
+◁ sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
 
-🔻 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
-
-🔻sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
-
-🔻 ᴛʜᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ..</b> 
+◁ ᴛʜᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ..</b> 
 """
 
     TECH_VJ_ABOUT_TEXT = """
-<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
-
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/vj_botz">ᴠᴊ ʙᴏᴛᴢ</a>
-
-🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
-
-📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
-
-🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
-
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+<b>▷ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/UrlUploaderGalaxy_bot"Uʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a>
+▷ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a>
+▷ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Galaxy_Bots">ᴠᴊ ʙᴏᴛᴢ</a>
+▷ sᴇʀᴠᴇʀ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
+▷ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
+▷ ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a></b>
 
 """
 
     
     TECH_VJ_START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🎭 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Galaxy_Support123'),
+            InlineKeyboardButton('🍀 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Galaxy_Bots1')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('⚠️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://instagram.com/tech.vj')
+            InlineKeyboardButton('⊝ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('♙ ʜᴏᴍᴇ', callback_data='home')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
+            InlineKeyboardButton('⊝ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('♙ ʜᴏᴍᴇ', callback_data='home')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help')
-        ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
+            InlineKeyboardButton('⊝ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     
