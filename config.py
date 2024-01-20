@@ -19,6 +19,7 @@ class Config(object):
     # Bot Information 
     TECH_VJ_BOT_TOKEN = os.environ.get("TECH_VJ_BOT_TOKEN", "")
     TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "UrlUploaderGalaxy_bot") # Bot username without @.
+    PICS = (environ.get('PICS', 'https://te.legra.ph/file/7e3b2b02d5bd88fffd0ed.jpg https://te.legra.ph/file/ada4e7758a4164ee0b5b0.jpg https://te.legra.ph/file/6f2877bb1e183bcf3979e.jpg https://te.legra.ph/file/52423c13fe3ef49ae465d.jpg https://te.legra.ph/file/985d471fe1416399d5248.jpg https://te.legra.ph/file/eaf6e3e350308fc5d53d0.jpg')).split()
     
     # The Telegram API things
     TECH_VJ_API_ID = int(os.environ.get("TECH_VJ_API_ID", "25705219"))
