@@ -1,7 +1,3 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 from config import Config
 from pyrogram import filters
 from pyrogram.errors import UserNotParticipant
@@ -28,19 +24,19 @@ async def button(bot, update):
         await update.message.edit(
             text=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
             reply_markup=Translation.TECH_VJ_START_BUTTONS,
-            # disable_web_page_preview=True
+            # 
         )
     elif update.data == "help":
         await update.message.edit(
             text=Translation.TECH_VJ_HELP_TEXT,
             reply_markup=Translation.TECH_VJ_HELP_BUTTONS,
-            # disable_web_page_preview=True
+            disable_web_page_preview=True
         )
     elif update.data == "about":
         await update.message.edit(
             text=Translation.TECH_VJ_ABOUT_TEXT,
             reply_markup=Translation.TECH_VJ_ABOUT_BUTTONS,
-            # disable_web_page_preview=True
+            disable_web_page_preview=True
         )
     elif "close" in update.data:
         await update.message.delete(True)
@@ -85,5 +81,5 @@ async def button(bot, update):
         await update.message.edit(
             text=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
             reply_markup=Translation.TECH_VJ_START_BUTTONS,
-            # disable_web_page_preview=True
+            disable_web_page_preview=True
         )
