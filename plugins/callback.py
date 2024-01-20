@@ -27,18 +27,21 @@ async def button(bot, update):
     elif update.data == "home":
         await update.message.edit(
             text=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
+            photo=random.choice(PICS),
             reply_markup=Translation.TECH_VJ_START_BUTTONS,
             # disable_web_page_preview=True
         )
     elif update.data == "help":
         await update.message.edit(
             text=Translation.TECH_VJ_HELP_TEXT,
+            photo=random.choice(PICS),
             reply_markup=Translation.TECH_VJ_HELP_BUTTONS,
             # disable_web_page_preview=True
         )
     elif update.data == "about":
         await update.message.edit(
             text=Translation.TECH_VJ_ABOUT_TEXT,
+            photo=random.choice(PICS),
             reply_markup=Translation.TECH_VJ_ABOUT_BUTTONS,
             # disable_web_page_preview=True
         )
