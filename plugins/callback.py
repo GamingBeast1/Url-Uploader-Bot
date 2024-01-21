@@ -29,8 +29,7 @@ async def button(bot, update):
     elif update.data == "help":
         await update.message.edit(
             text=Translation.TECH_VJ_HELP_TEXT,
-            reply_markup=Translation.TECH_VJ_HELP_BUTTONS,
-            disable_web_page_preview=True
+            reply_markup=Translation.TECH_VJ_HELP_BUTTONS
         )
     elif update.data == "about":
         await update.message.edit(
