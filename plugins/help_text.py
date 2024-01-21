@@ -47,9 +47,10 @@ async def start(bot, update):
       
     # logger.info(update)
         await AddUser(bot, update)
-        await bot.send_message(
+        await message.reply_photo(
+            photo=random.choice(PICS),
             chat_id=update.chat.id,
-            text=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
+            caption=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
             reply_markup=Translation.TECH_VJ_START_BUTTONS,
             reply_to_message_id=update.id,
             disable_web_page_preview=True 
