@@ -23,38 +23,36 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
-@Tech_VJ.on_message(filters.private & filters.command(["help"]))
-async def help_user(bot, update):
-    # logger.info(update)
-    await AddUser(bot, update)
-    await bot.send_message(
-        chat_id=update.chat.id,
-        text=Translation.TECH_VJ_HELP_TEXT,
-        reply_markup=Translation.TECH_VJ_HELP_BUTTONS,
-        parse_mode=enums.ParseMode.HTML,
-        disable_web_page_preview=True,
-        reply_to_message_id=update.id
-    )
-
-
-@Tech_VJ.on_message(filters.private & filters.command(["start"]))
-async def start(bot, update):
-    if Config.TECH_VJ_UPDATES_CHANNEL is not None:
-        back = await handle_force_sub(bot, update)
-        if back == 400:
-            return
-    if len(update.command) != 2:
-      
-    # logger.info(update)
-        await AddUser(bot, update)
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            chat_id=update.chat.id,
-            caption=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention),
-            reply_markup=Translation.TECH_VJ_START_BUTTONS,
-            reply_to_message_id=update.id,
-            disable_web_page_preview=True 
-        )
+@Tech_VJ.on_message(filters.private & filters.command(["help"])) 
+ async def help_user(bot, update): 
+     # logger.info(update) 
+     await AddUser(bot, update) 
+     await bot.send_message( 
+         chat_id=update.chat.id, 
+         text=Translation.TECH_VJ_HELP_TEXT, 
+         reply_markup=Translation.TECH_VJ_HELP_BUTTONS, 
+         parse_mode=enums.ParseMode.HTML, 
+         disable_web_page_preview=True, 
+         reply_to_message_id=update.id 
+     ) 
+  
+  
+ @Tech_VJ.on_message(filters.private & filters.command(["start"])) 
+ async def start(bot, update): 
+     if Config.TECH_VJ_UPDATES_CHANNEL is not None: 
+         back = await handle_force_sub(bot, update) 
+         if back == 400: 
+             return 
+     if len(update.command) != 2: 
+  
+     # logger.info(update) 
+         await AddUser(bot, update) 
+         await bot.send_message( 
+             chat_id=update.chat.id, 
+             text=Translation.TECH_VJ_START_TEXT.format(update.from_user.mention), 
+             reply_markup=Translation.TECH_VJ_START_BUTTONS, 
+             reply_to_message_id=update.id 
+         )
         return
     data = update.command[1]
 
