@@ -75,4 +75,4 @@
              return await update.reply_text( 
                  text="<b>ᴇxᴘɪʀᴇᴅ ʟɪɴᴋ ᴏʀ ɪɴᴠᴀʟɪᴅ ʟɪɴᴋ !</b>", 
                  protect_content=True 
-             )
+             
